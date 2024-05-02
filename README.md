@@ -1,5 +1,8 @@
 # Ponderada Deploying Backstage - M9 S2
 
+## Introdução
+O Backstage é uma plataforma open-source criada pelo Spotify para permitir que suas equipes gerenciem seus softwares e automações de infraestrutura de maneira eficiente e centralizada. Foi construída para ser um "portal para desenvolvedores", oferecendo uma interface unificada através da qual múltiplos serviços, ferramentas e recursos podem ser acessados e gerenciados. Ele permite integrar e padronizar a configuração e gerenciamento de ferramentas de desenvolvimento, serviços e documentação em um único local, e a utilização do Docker em conjunto com o Backstage é ideal para a criação de ambientes replicáveis e escaláveis.
+
 ## Passo a passo para compilação e execução do Backstage com Docker
 
 ### Instalar o backstage:
